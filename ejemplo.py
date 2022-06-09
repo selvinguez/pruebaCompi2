@@ -9,7 +9,7 @@ for i in numero:
     
 for i in numero:
   
-  if (i % 2) == 1:
+  if (i % 2) != 1:
     numero2[n] = i
     n = n + 1
 
